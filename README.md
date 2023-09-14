@@ -1,5 +1,7 @@
 # K-means-clustering-
 "Customer Segmentation with K-Means Clustering: Unlocking Insights from Mall Customer Data"
+
+
 This repository contains a Python script and Jupyter Notebook for performing customer segmentation using the K-Means clustering algorithm on mall customer data. The objective of this project is to identify distinct customer segments within the mall's customer base based on their behavior and characteristics, enabling the mall to tailor its marketing and services to different customer groups effectively.
 Table of Contents
 
